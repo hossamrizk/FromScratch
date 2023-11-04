@@ -1,4 +1,4 @@
-# FromScratch
+# From Scratch
 
 Welcome to my repository of From scratch! Build a variety of machine learning models without using any library or framework.
 
